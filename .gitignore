@@ -1,3 +1,6 @@
+# pt files because they are large
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
